@@ -16,7 +16,7 @@ import numpy as np
 from scipy.linalg import eigh
 from scipy.ndimage import map_coordinates
 
-KOLE = r"C:\Users\prof.dr.f.sami\Desktop\Moire Qubit\.claude\worktrees\great-wozniak-614fd7\Desktop\Moire Qubit\kolE_hBN"
+KOLE = r"C:\path\to\Moire Qubit\.claude\worktrees\great-wozniak-614fd7\Desktop\Moire Qubit\kolE_hBN"
 HB2_2ME = 3.80998212          # eV A^2
 A_HBN = 2.504                 # A
 MSTAR = 0.77                  # Kol E

@@ -1,5 +1,5 @@
 #!/bin/bash
-W='/mnt/c/Users/prof.dr.f.sami/AppData/Local/Temp/claude/C--Users-prof-dr-f-sami-Desktop-BABAM--claude-worktrees-tbg-fotonik-bariyeri-chatimi-35a068/9b6a327a-26b2-469d-978b-55fdc4c53201/scratchpad/t1_hakem/hbn_tum_kanal'
+W='/path/to/work/t1_hakem/hbn_tum_kanal'
 mkdir -p ~/t1hakem_dp
 cp "$W/kod/dp_dft.py" ~/t1hakem_dp/
 cd ~/t1hakem_dp

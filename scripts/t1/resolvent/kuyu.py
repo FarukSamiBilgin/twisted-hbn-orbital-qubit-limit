@@ -13,7 +13,7 @@ import scipy.sparse as sp
 from scipy.sparse.linalg import eigsh
 from scipy.linalg import eigh
 
-KOLE = (r"C:\Users\prof.dr.f.sami\Desktop\Moire Qubit\.claude\worktrees"
+KOLE = (r"C:\path\to\Moire Qubit\.claude\worktrees"
         r"\great-wozniak-614fd7\Desktop\Moire Qubit\kolE_hBN")
 HBAR2_2ME = 3.8099821      # eV A^2
 MSTAR = 0.77               # Kol E (pw_cozucu.py) K-vadisi kutle

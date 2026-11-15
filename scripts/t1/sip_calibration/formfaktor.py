@@ -51,7 +51,7 @@ for qq_ in (1e9, 2e9, 3e9, 3.6e9):
     i = np.argmin(abs(q - qq_)); print("  q=%.1e  Gauss sayisal %.3e  analitik %.3e" % (q[i], Tg[i], Gz[i]))
 json.dump(dict(q=q.tolist(), F_KL_z=Tz.tolist(), F_G_z=Gz.tolist(), qstar=out), open("formfaktor.json", "w"))
 # hBN dogrulayicinin F2 tablosu log-egim
-H = json.load(open(r"C:\Users\PROFDR~1.SAM\AppData\Local\Temp\claude\C--Users-prof-dr-f-sami-Desktop-BABAM--claude-worktrees-tbg-fotonik-bariyeri-chatimi-35a068\9b6a327a-26b2-469d-978b-55fdc4c53201\scratchpad\pareto_dogrulama\t1_yeniden\data\t1_yeniden.json"))
+H = json.load(open(r"C:\path\to\work\pareto_dogrulama\t1_yeniden\data\t1_yeniden.json"))
 for x in H:
     qa = np.array(x["F2_q"]["q_invA"]); f2 = np.array(x["F2_q"]["F2_N220"])
     m = f2 > 0
