@@ -1,0 +1,72 @@
+{
+ "32": {
+  "T1_ps": {
+   "pes": 1.4,
+   "mer": 5.9,
+   "opt": 50.4
+  },
+  "hGamma_ueV": {
+   "mer": 111.3
+  },
+  "eksik_kat_30ns": {
+   "mer": 5071,
+   "opt": 595
+  },
+  "baskin": {
+   "pes": "LALA",
+   "mer": "1f",
+   "opt": "1f"
+  }
+ },
+ "48": {
+  "T1_ps": {
+   "pes": 3.4,
+   "mer": 11.3,
+   "opt": 57.4
+  },
+  "hGamma_ueV": {
+   "mer": 58.1
+  },
+  "eksik_kat_30ns": {
+   "mer": 2649,
+   "opt": 523
+  },
+  "baskin": {
+   "pes": "LALA",
+   "mer": "egilme",
+   "opt": "LALA"
+  }
+ },
+ "64": {
+  "T1_ps": {
+   "pes": 6.0,
+   "mer": 7.9,
+   "opt": 33.9
+  },
+  "hGamma_ueV": {
+   "mer": 83.7
+  },
+  "eksik_kat_30ns": {
+   "mer": 3815,
+   "opt": 886
+  },
+  "baskin": {
+   "pes": "egilme",
+   "mer": "egilme",
+   "opt": "egilme"
+  }
+ },
+ "kaldirac": {
+  "0.098ns@D=4.5": {
+   "kat": 306,
+   "D_gerekli_eV": 1.08
+  },
+  "0.231ns@D=3.66": {
+   "kat": 130,
+   "D_gerekli_eV": 1.08
+  },
+  "lambda_LA+LA_32.4meV_nm": 5.36,
+  "lambda_LA+LA_48.2meV_nm": 3.6,
+  "lambda_LA+LA_64.4meV_nm": 2.7
+ }
+}

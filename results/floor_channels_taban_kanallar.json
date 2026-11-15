@@ -1,0 +1,14 @@
+{
+ "_kaynak": "MIMARI/t1_hakem_hukmu.md (commit 1d43d5c, ana checkout): 'hbn:iki-fonon' kanal tablosu (tam resolvent, D 3.66-4.5 eV, v_LA 18.86-21 km/s, T=0) ve 'hukum' birlesik T1 tablosu (iki bagimsiz hat). Birim: ns.",
+ "E21_meV": [32.44, 48.22, 64.41, 74.62, 88.42],
+ "LA_1f": [[0.022, 0.090], [0.161, 1.15], [1.63, 21.0], [11.0, 249.0], [87.0, 3037.0]],
+ "LA_LA": [[0.040, 0.134], [0.050, 0.121], [0.066, 0.162], [0.078, 0.191], [0.098, 0.231]],
+ "ZA_ZA": [[0.037, 0.272], [0.023, 0.134], [0.014, 0.047], [0.008, 0.030], null],
+ "toplam_E21_meV": [32.4, 48.2, 64.4],
+ "toplam_merkez": [0.006, 0.011, 0.008],
+ "toplam_bant": [[0.0014, 0.050], [0.0034, 0.060], [0.006, 0.037]],
+ "hedef_T1_ns": 30.0,
+ "ZO_1f_esik_meV": 77.0,
+ "iki_ZA_max_meV": 79.0,
+ "optik_yasak_meV": [90.0, 103.0]
+}

@@ -1,0 +1,19 @@
+calisma_3GPa_1.09 1 24 24 0.75 0.3 LT
+calisma_3GPa_1.09 0 24 24 0.75 0.3 LT
+calisma_3GPa_1.09 2 24 24 0.75 0.3 LT
+ortam_0GPa_1.09 1 24 24 0.75 0.3 LT
+5GPa_1.20_uzatma 1 24 24 0.75 0.3 LT
+ortam_0GPa_1.09 0 24 24 0.75 0.3 LT
+ortam_0GPa_1.09 2 24 24 0.75 0.3 LT
+5GPa_1.20_uzatma 0 24 24 0.75 0.3 LT
+5GPa_1.20_uzatma 2 24 24 0.75 0.3 LT
+calisma_3GPa_1.09 1 36 24 0.75 0.3 L
+calisma_3GPa_1.09 1 24 36 0.75 0.3 L
+calisma_3GPa_1.09 1 24 24 0.60 0.3 L
+calisma_3GPa_1.09 1 24 24 0.75 0.1 L
+calisma_3GPa_1.09 1 24 24 0.75 1.0 L
+calisma_3GPa_1.09 1 24 24 0.75 0.3 L sos
+dz04_xi1.00_1.20 0 24 24 0.75 0.3 L
+dz04_xi1.00_1.20 2 24 24 0.75 0.3 L
+dz04_xi0.75_1.09 0 24 24 0.75 0.3 L
+dz04_xi0.75_1.09 2 24 24 0.75 0.3 L

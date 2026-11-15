@@ -1,0 +1,16 @@
+D=-5.945 eV  lam_e=-7.71 mu_e=18.40 eV
+  [5GPa_1.20] dogrulayici-tekrar 2LA D=4.5 v=21.00: T1=101.5 ps
+  [5GPa_1.20] dogrulayici-tekrar 2LA D=4.5 v=18.86: T1=159.5 ps
+  [5GPa_1.20] ardisik v21.00_lin_e1.38_eps5.10_dw1_rs+1: T1=25.5 ps  baskin: La+La 24%, La+Ls 23%, Ls+La 23%, Ls+Ls 22%
+  [5GPa_1.20] ardisik v21.00_lin_e1.38_eps5.10_dw1_rs-1: T1=25.5 ps  baskin: La+La 24%, Ls+La 23%, La+Ls 23%, Ls+Ls 22%
+  [5GPa_1.20] ardisik v18.86_lin_e2.91_eps2.45_dw1_rs+1: T1=13.1 ps  baskin: Ls+Ls 33%, La+Ls 19%, Ls+La 19%, La+La 11%
+  [5GPa_1.20] ardisik v21.00_sin_e1.38_eps5.10_dw1_rs+1: T1=26.2 ps  baskin: La+La 24%, La+Ls 23%, Ls+La 23%, Ls+Ls 22%
+  [5GPa_1.20] ardisik v21.00_lin_e1.38_eps5.10_dw0_rs+1: T1=86.0 ps  baskin: Ls+Ls 74%, Ls+La 6%, La+Ls 6%, Ls+Ta 5%
+  [5GPa_1.20] egilme-temas D5.94_dw1: ss 68.7 aa 22.3 (geo 87.6 nefes 91.2) sa 38.8 -> T1=11.8 ps
+  [5GPa_1.20] egilme-temas D4.50_dw1: ss 120 aa 29 (geo 153 nefes 91.2) sa 67.7 -> T1=17.4 ps
+  [5GPa_1.20] egilme-temas D5.94_dw0: ss 68.7 aa 22.3 (geo 87.6 nefes 91.2) sa 1e+42 -> T1=16.9 ps
+  [5GPa_1.20] egilme-temas D4.50_dw0: ss 120 aa 29 (geo 153 nefes 91.2) sa 1e+42 -> T1=23.4 ps
+  [5GPa_1.20] egilme-temas sin^2-ZA: T1=13.9 ps
+  [5GPa_1.20] duzlem-ici-temas v21.00: T1=490.8 ps ; reg(La+La)=5.71e+03 ps
+  [5GPa_1.20] duzlem-ici-temas v18.86: T1=344.4 ps ; reg(La+La)=4.31e+03 ps
+== 5GPa_1.20 bitti [419s]

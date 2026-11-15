@@ -1,0 +1,73 @@
+DFT D = -5.945 eV
+ortam_1.09 E21=32.44  KolE tekrar 36 ps  [137s]
+   Ls_dp          G=3.888e+10  T1=0.0257 ns
+   Ls_pz          G=2.592e+09  T1=0.386 ns
+   Ls_g           G=2.029e+07  T1=49.3 ns
+   Ls_TOPLAM+     G=4.150e+10  T1=0.0241 ns
+   Ls_TOPLAM-     G=4.150e+10  T1=0.0241 ns
+   La_dp          G=4.300e+10  T1=0.0233 ns
+   La_pz          G=4.752e+08  T1=2.1 ns
+   La_g           G=2.259e+07  T1=44.3 ns
+   La_reg         G=6.083e+08  T1=1.64 ns
+   La_TOPLAM+     G=4.411e+10  T1=0.0227 ns
+   La_TOPLAM-     G=4.411e+10  T1=0.0227 ns
+   Ts_pz          G=4.391e+06  T1=228 ns
+   Ts_g           G=2.249e+04  T1=4.45e+04 ns
+   Ts_TOPLAM+     G=4.413e+06  T1=227 ns
+   Ts_TOPLAM-     G=4.413e+06  T1=227 ns
+   Ta_pz          G=1.974e+06  T1=507 ns
+   Ta_g           G=2.929e+04  T1=3.41e+04 ns
+   Ta_reg         G=1.239e+08  T1=8.07 ns
+   Ta_TOPLAM+     G=1.259e+08  T1=7.94 ns
+   Ta_TOPLAM-     G=1.259e+08  T1=7.94 ns
+   TOPLAM_max     G=8.573e+10  T1=0.0117 ns
+   TOPLAM_min     G=8.573e+10  T1=0.0117 ns
+   ZO': {'q_invA': 1.056673725703462, 'Gamma': np.float64(49.30389657682876), 'T1_s': np.float64(0.02028237257965464), 'E1_0': 0.323467904531147, 'E1_1': 0.06884634868592768}
+3GPa_1.09 E21=48.22  KolE tekrar 336 ps  [179s]
+   Ls_dp          G=5.434e+09  T1=0.184 ns
+   Ls_pz          G=3.029e+08  T1=3.3 ns
+   Ls_g           G=2.943e+06  T1=340 ns
+   Ls_TOPLAM+     G=5.740e+09  T1=0.174 ns
+   Ls_TOPLAM-     G=5.740e+09  T1=0.174 ns
+   La_dp          G=5.804e+09  T1=0.172 ns
+   La_pz          G=9.116e+07  T1=11 ns
+   La_g           G=3.161e+06  T1=316 ns
+   La_reg         G=8.559e+07  T1=11.7 ns
+   La_TOPLAM+     G=5.984e+09  T1=0.167 ns
+   La_TOPLAM-     G=5.984e+09  T1=0.167 ns
+   Ts_pz          G=9.769e+03  T1=1.02e+05 ns
+   Ts_g           G=6.923e+01  T1=1.44e+07 ns
+   Ts_TOPLAM+     G=9.838e+03  T1=1.02e+05 ns
+   Ts_TOPLAM-     G=9.838e+03  T1=1.02e+05 ns
+   Ta_pz          G=6.255e+03  T1=1.6e+05 ns
+   Ta_g           G=7.602e+01  T1=1.32e+07 ns
+   Ta_reg         G=6.152e+05  T1=1.63e+03 ns
+   Ta_TOPLAM+     G=6.215e+05  T1=1.61e+03 ns
+   Ta_TOPLAM-     G=6.215e+05  T1=1.61e+03 ns
+   TOPLAM_max     G=1.172e+10  T1=0.0853 ns
+   TOPLAM_min     G=1.172e+10  T1=0.0853 ns
+   ZO': {'q_invA': None, 'Gamma': 0.0, 'neden': "E21=48.2 meV > ZO' dal tepesi 40.8 meV"}
+5GPa_1.20 E21=64.41  KolE tekrar 4512 ps  [152s]
+   Ls_dp          G=5.360e+08  T1=1.87 ns
+   Ls_pz          G=2.574e+07  T1=38.9 ns
+   Ls_g           G=3.065e+05  T1=3.26e+03 ns
+   Ls_TOPLAM+     G=5.621e+08  T1=1.78 ns
+   Ls_TOPLAM-     G=5.621e+08  T1=1.78 ns
+   La_dp          G=5.632e+08  T1=1.78 ns
+   La_pz          G=1.122e+07  T1=89.1 ns
+   La_g           G=3.229e+05  T1=3.1e+03 ns
+   La_reg         G=8.697e+06  T1=115 ns
+   La_TOPLAM+     G=5.834e+08  T1=1.71 ns
+   La_TOPLAM-     G=5.834e+08  T1=1.71 ns
+   Ts_pz          G=2.487e+01  T1=4.02e+07 ns
+   Ts_g           G=1.806e+00  T1=5.54e+08 ns
+   Ts_TOPLAM+     G=2.667e+01  T1=3.75e+07 ns
+   Ts_TOPLAM-     G=2.667e+01  T1=3.75e+07 ns
+   Ta_pz          G=2.028e+01  T1=4.93e+07 ns
+   Ta_g           G=1.630e+00  T1=6.14e+08 ns
+   Ta_reg         G=3.295e+03  T1=3.03e+05 ns
+   Ta_TOPLAM+     G=3.317e+03  T1=3.01e+05 ns
+   Ta_TOPLAM-     G=3.317e+03  T1=3.01e+05 ns
+   TOPLAM_max     G=1.145e+09  T1=0.873 ns
+   TOPLAM_min     G=1.145e+09  T1=0.873 ns
+   ZO': {'q_invA': None, 'Gamma': 0.0, 'neden': "E21=64.4 meV > ZO' dal tepesi 40.8 meV"}

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Manuscript in preparation. If you use this code or data, please cite this repository and the companion preprint (doi:10.5281/zenodo.24201814)."
+title: "Why twisted-hBN moire artificial atoms cannot host orbital qubits: measured well deepening meets a two-phonon floor (code and data)"
+authors:
+  - family-names: Bilgin
+    given-names: Faruk Sami
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0009-0001-9064-4410"
+type: software
+repository-code: "https://github.com/FarukSamiBilgin/twisted-hbn-orbital-qubit-limit"
+date-released: 2026-11-15
+license: MIT
